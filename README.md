@@ -1,2 +1,2 @@
 # Prime number 
-This program calculates Prime Numbe
+This program calculates all the Prime Numbers from up to a number.
